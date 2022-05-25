@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bleed/ArduinoProj/Calculator.hpp
+
+/home/bleed/ArduinoProj/InputHandler.cpp
+cmath
+-
+cstdint
+-
+exception
+-
+iostream
+-
+Calculator.hpp
+/home/bleed/ArduinoProj/Calculator.hpp
+InputHandler.hpp
+/home/bleed/ArduinoProj/InputHandler.hpp
+InterfaceWrapper.hpp
+/home/bleed/ArduinoProj/InterfaceWrapper.hpp
+
+/home/bleed/ArduinoProj/InputHandler.hpp
+cstdint
+-
+vector
+-
+InputValidator.hpp
+/home/bleed/ArduinoProj/InputValidator.hpp
+
+/home/bleed/ArduinoProj/InputValidator.hpp
+cstdint
+-
+
+/home/bleed/ArduinoProj/InterfaceWrapper.hpp
+

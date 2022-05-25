@@ -1,0 +1,3 @@
+/home/bleed/ArduinoProj/build/CMakeFiles/rebuild_cache.dir
+/home/bleed/ArduinoProj/build/CMakeFiles/edit_cache.dir
+/home/bleed/ArduinoProj/build/CMakeFiles/ArduinoProject.dir
